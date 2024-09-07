@@ -19,8 +19,8 @@ The system leverages LlamaIndex for efficient information indexing and retrieval
 
 1. Clone the repository:
 ```
-git clone https://github.com/NVIDIA/GenerativeAIExamples.git
-cd  multimodal_rag
+git clone https://github.com/blurryravil/Software_Testing_Instructor_Chatbot.git
+cd  Software_Testing_Instructor_Chatbot
 ```
 
 2.Create a conda environment or a virtual environment:
@@ -28,7 +28,7 @@ cd  multimodal_rag
    - Using conda:
      ```
      conda create --name your-name python=3.10
-     conda activate multimodal-rag
+     conda activate your-name
      ```
 
 
