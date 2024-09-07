@@ -41,6 +41,19 @@ pip install -r requirements.txt
 ```
 export NVIDIA_API_KEY="your-api-key-here"
 ```
+## Snapshot of working website
+
+### Home Page
+![home_page](https://github.com/user-attachments/assets/5bd56ed3-e97a-4658-9690-b00a17d58c25)
+
+### After Uploading file
+![file_uploaded](https://github.com/user-attachments/assets/3945e160-b502-4cf2-9b5d-5e8c68937cf9)
+
+### Interacing with bot
+![Working_Bot_1](https://github.com/user-attachments/assets/90c7b904-1d65-45b8-9954-d79c9cb71cf5)
+
+![Working_Bot_2](https://github.com/user-attachments/assets/a55dc9d1-dbc1-4bf0-8b80-2a3e0d5de7c1)
+
 
 
 ## Usage
