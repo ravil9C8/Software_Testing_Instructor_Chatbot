@@ -1,0 +1,1 @@
+Create a static folder under the similar category if there is error while running streamlit app.
