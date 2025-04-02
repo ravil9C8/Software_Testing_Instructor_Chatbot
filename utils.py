@@ -8,7 +8,7 @@ from llama_index.llms.nvidia import NVIDIA
 
 def set_environment_variables():
     """Set necessary environment variables."""
-    os.environ["NVIDIA_API_KEY"] = "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" #set API key
+    os.environ["NVIDIA_API_KEY"] = "" #set API key
 
 def get_b64_image_from_content(image_content):
     """Convert image content to base64 encoded string."""
